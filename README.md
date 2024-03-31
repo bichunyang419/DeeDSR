@@ -1,2 +1,2 @@
 # DeeDSR
-Code will comming soon.
+Code will be coming soon.
