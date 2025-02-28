@@ -1,6 +1,6 @@
 # DeeDSR
 DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion: [Paper](https://arxiv.org/abs/2404.00661)
-
+## Acknowledgement
 ## Citation
 
 If our work is useful for your research, please consider citing:
