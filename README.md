@@ -1,6 +1,8 @@
 # DeeDSR
 DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion: [Paper](https://arxiv.org/abs/2404.00661)
 ## Acknowledgement
+This project is based on [controlnet](https://github.com/lllyasviel/ControlNet), [StableSR](https://github.com/IceClear/StableSR), [SPADE](https://github.com/NVlabs/SPADE), [DASR](https://github.com/SYSU-SAIL/DASR) and [BasicSR](https://github.com/XPixelGroup/BasicSR). Thanks for their awesome work.
+
 ## Citation
 
 If our work is useful for your research, please consider citing:
@@ -13,5 +15,5 @@ If our work is useful for your research, please consider citing:
   year={2024}
 }
 
-## Acknowledgement
+
 This project is based on [controlnet](https://github.com/lllyasviel/ControlNet), [StableSR](https://github.com/IceClear/StableSR), [SPADE](https://github.com/NVlabs/SPADE), [DASR](https://github.com/SYSU-SAIL/DASR) and [BasicSR](https://github.com/XPixelGroup/BasicSR). Thanks for their awesome work.
