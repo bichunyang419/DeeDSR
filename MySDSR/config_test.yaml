@@ -1,0 +1,10 @@
+
+data:
+  params:
+    batch_size: 10
+    num_workers: 8
+    wrap: false
+    train:
+      params:
+        lr_path: ""
+        hr_path: ""
