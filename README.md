@@ -16,4 +16,3 @@ If our work is useful for your research, please consider citing:
 }
 
 
-This project is based on [controlnet](https://github.com/lllyasviel/ControlNet), [StableSR](https://github.com/IceClear/StableSR), [SPADE](https://github.com/NVlabs/SPADE), [DASR](https://github.com/SYSU-SAIL/DASR) and [BasicSR](https://github.com/XPixelGroup/BasicSR). Thanks for their awesome work.
