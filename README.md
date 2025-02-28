@@ -6,11 +6,10 @@ DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable D
 
 If our work is useful for your research, please consider citing:
 
-- ==&zwnj;**Exploiting Diffusion Prior for Real-World Image Super-Resolution**&zwnj;==  
   ```bibtex
-  @article{wang2024exploiting,
-    author    = {Wang, Jianyi and Yue, Zongsheng and Zhou, Shangchen and Chan, Kelvin C.K. and Loy, Chen Change},
-    title     = {Exploiting Diffusion Prior for Real-World Image Super-Resolution},
-    journal   = {International Journal of Computer Vision},
-    year      = {2024}
-  }
+  @article{bi2024deedsr,
+  title={DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion},
+  author={Bi, Chunyang and Luo, Xin and Shen, Sheng and Zhang, Mengxi and Yue, Huanjing and Yang, Jingyu},
+  journal={arXiv preprint arXiv:2404.00661},
+  year={2024}
+}
